@@ -19,7 +19,8 @@ Users
 
 Voting
   - stars or yes no?
-
+  - like dislike
+  - traits - (fraternal values)
 
 Metrics /stats
   - votes
