@@ -61,10 +61,16 @@ List of things to be worked on:
 Rating Tiers:
 - First tier is swiping
     - Allow members to swipe left or right through the rushers
+    - This will be used to generate a general like/dislike on each rushee
+
 - Second tier is rating
-    - Allow members to rate rushees with a star system
-- Third Tier is experiences
-    - Allow members to give specific thoughts and actions about rushees 
+    - Allow members to rate rushees with a star system for individual characteristics
+    - Characteristics could be: Socialness, Coolness, Style
+    - This will be used to analyze specific places where rushees succeed and fail
+    - 
+- Third Tier is Bid/No Bid
+    - Allow members to finalize thoughts and see where they rank each of the rushees
+    - Maybe you should only have access to this when every rushee has been ranked?
 
 Statistics Idea:
 - Have an average rating 
@@ -101,4 +107,7 @@ Software:
 - We should start to design the actual app itself. The splash screen, the starting page, the different branches.
 
 - How can we prove that registering users are themselves? What if someone registers a fake fraternity, or aren’t in the fraternity that they register for?
+- 
+
+
 
